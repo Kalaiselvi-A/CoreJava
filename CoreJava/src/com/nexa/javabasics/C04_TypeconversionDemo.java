@@ -1,6 +1,6 @@
 package com.nexa.javabasics;
 
-public class TypeconversionDemo {
+public class C04_TypeconversionDemo {
 
 	public static void main(String[] args) {
 		
