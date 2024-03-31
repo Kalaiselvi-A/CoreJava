@@ -1,6 +1,6 @@
 package com.nexa.javabasics;
 
-public class LiteralsDemo {
+public class C03_LiteralsDemo {
 
 	public static void main(String[] args) {
 		//literals
