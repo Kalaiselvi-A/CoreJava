@@ -1,6 +1,6 @@
 package com.nexa.javabasics;
 
-public class VariableDemo {
+public class C01_VariableDemo {
 
 	public static void main(String[] args) {
 		
