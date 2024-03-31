@@ -1,6 +1,6 @@
 package com.nexa.javabasics;
 
-public class DatatypesDemo {
+public class C02_DatatypesDemo {
 
 	public static void main(String[] args) {
 		
