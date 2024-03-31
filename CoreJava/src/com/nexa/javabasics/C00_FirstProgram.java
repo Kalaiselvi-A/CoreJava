@@ -1,6 +1,6 @@
 package com.nexa.javabasics;
 
-public class FirstProgram {
+public class C00_FirstProgram {
 
 	public static void main(String[] args) {
 		
